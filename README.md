@@ -1,4 +1,4 @@
-## HowTow
+## HowTo
 
 Repositorio donde iré publicando todos los manuales de los laboratorios que iré realizando.
 
