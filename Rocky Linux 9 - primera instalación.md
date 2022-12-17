@@ -32,6 +32,7 @@ Y cambiamos donde pone:
     SELINUX=enforcing 
  
 Por:
+    
     SELINUX=permissive
 
 ### Reinicio
