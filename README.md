@@ -10,4 +10,4 @@ En este repositorio iré publicando pequeñas guías realizadas sobre Rocky Linu
 
 ## Scripts en BASH
 
-(en proceso de creación)
+- [Rocky linux 9 - primera instalación v1.0.0](https://github.com/ctagadev/howto/blob/master/scripts/first_installation_v1.0.0.sh)
